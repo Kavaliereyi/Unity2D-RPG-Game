@@ -32,18 +32,17 @@ The project is currently in an active iteration phase. My current focus is on ex
    git clone https://github.com/Kavaliereyi/Unity2D-RPG-Game.git
 
 2. **Open in Unity**:
-Launch Unity Hub.
+    Launch Unity Hub.
 
-Click the Add button (or Add project from disk).
+    Click the Add button (or Add project from disk).
 
-Select the Unity2D-RPG-Game folder you just cloned.
+    Select the Unity2D-RPG-Game folder you just cloned.
 
-Ensure the Editor version is set to 6000.2.12f1 or a compatible version.
+    Ensure the Editor version is set to 6000.2.12f1 or a compatible version.
 
 3. **Play the Demo**:
-In the Project Window (bottom of the editor), navigate to Assets > Scenes.
+    In the Project Window (bottom of the editor), navigate to Assets > Scenes.
 
-Double-click MainMenu.unity.
+    Double-click MainMenu.unity.
 
-Press the Play (▶️) button at the top of the Unity Editor to start the game.
-
+    Press the Play (▶️) button at the top of the Unity Editor to start the game.
